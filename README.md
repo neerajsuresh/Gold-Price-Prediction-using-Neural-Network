@@ -6,5 +6,5 @@ This project explores the application of Neural Networks for predicting gold pri
 ## Dataset
 The dataset used for this project includes historical data of various features, such as stock market indices (SPX), oil prices (USO), currency exchange rates (EUR/USD), and more. Each row in the dataset corresponds to a specific date and the associated feature values.
 
-##Results
+## Results
 On evaluating the trained Neural Network model's performance for gold price prediction, an R2 score of 0.7017 was achieved
